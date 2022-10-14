@@ -12,7 +12,7 @@ This project Analyzes the user-article interactions on the IBM Watson Studio pla
 4. [Content](#contents)
 
 ### Project Motivation
->This project is being done as a part of the Udacity Data Scientist Nanodegree Term 2 Project 3. It involves Rank based filtering, Collaborative filtering, and SVD models for recommendations.
+>This project is being done as a part of the Udacity Data Scientist Nanodegree. It involves Rank based filtering, Collaborative filtering, and SVD models for recommendations.
 
 ### Libraries <a name="libraries"></a>
 
